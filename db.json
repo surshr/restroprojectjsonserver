@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "name": "Suresh Shrestha",
+      "email": "sureshcstha@gmail.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "Sam",
+      "email": "sam@gmail.com",
+      "password": "password",
+      "id": 2
+    },
+    {
+      "name": "Addie",
+      "email": "addie@gmail.com",
+      "password": "password",
+      "id": 3
+    },
+    {
+      "name": "Sabina",
+      "email": "sabina@gmail.com",
+      "password": "password",
+      "id": 4
+    },
+        {
+      "name": "Drew",
+      "email": "drew@gmail.com",
+      "password": "password",
+      "id": 5
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "address": "3865 W 3500 S",
+      "contact": "(801) 969-6281",
+      "id": 1
+    },
+    {
+      "name": "Curry Pizza",
+      "address": "2927 S 5600 W",
+      "contact": "(801) 302-0777",
+      "id": 2
+    },
+    {
+      "name": "Artic Circle",
+      "address": "4073 W 4100 S",
+      "contact": "(385) 837-2533",
+      "id": 3
+    },
+    {
+      "name": "Taco Bell",
+      "address": "Salt lake city",
+      "contact": "(801) 963-6750",
+      "id": 4
+    },
+    {
+      "name": "Arby's",
+      "address": "3215 W 3500 S",
+      "contact": "(801) 966-5152",
+      "id": 5
+    },
+    {
+      "name": "Wendy's",
+      "address": "4643 4000 W",
+      "contact": "(801) 966-0477",
+      "id": 6
+    },
+    {
+      "name": "Jim's",
+      "address": "4073 W 4100 S",
+      "contact": "(801) 969-8265",
+      "id": 7
+    },
+    {
+      "name": "McDonald's",
+      "address": "3464 W 3500 S",
+      "contact": "(801) 969-5192",
+      "id": 8
+    },
+    {
+      "name": "Burger King",
+      "address": "4055 W 4100 S",
+      "contact": "(801) 955-4802",
+      "id": 9
+    },
+    {
+      "name": "Subway",
+      "address": "4030 W 4100 S",
+      "contact": "(801) 966-8765",
+      "id": 10
+    }
+  ]
+}
